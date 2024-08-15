@@ -1,1 +1,2 @@
 # Data-Cleaning-In-Pandas
+This project involves using the Pandas library in Python to clean a customer call list stored in an Excel file. The data cleaning process begins by importing the Excel file into a Pandas DataFrame, followed by inspecting the data to identify issues such as missing values and incorrect data types. We then address these issues by handling missing data through dropping or imputing missing values, correcting data types to ensure consistency, and removing duplicates to maintain data integrity.
